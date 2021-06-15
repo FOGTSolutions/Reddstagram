@@ -1,6 +1,6 @@
 # Reddstagram
 
-A python project for automated reddit subforum scraping and uploading to instagram.
+A python library for automated Reddit subforum scraping and uploading to Instagram.
 
 ## Installation
 
