@@ -4,10 +4,20 @@ A python library for automated Reddit subforum scraping and uploading to Instagr
 
 Developed by FOGT Solutions (c) 2020
 
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Reddstagram.
+
+```bash
+pip install reddstagram
+```
+
 ## Usage
 
 ```python
 import reddstagram
+
+reddstagram.auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="")
 ```
 
 ## Contributing
