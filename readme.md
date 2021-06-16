@@ -17,7 +17,11 @@ pip install reddstagram
 ```python
 import reddstagram
 
+#necessary arguments
 reddstagram.auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="")
+
+#optional arguments
+reddstagram.auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="", LIMIT=0, DELAY=0, CAPTION="")
 ```
 
 ## Contributing
