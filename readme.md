@@ -2,7 +2,7 @@
 
 A python library for automated Reddit subforum scraping and uploading to Instagram.
 
-Developed by FOGT Solutions (c) 2020
+Developed by FOGT Solutions (c) 2021
 
 ## Installation
 
