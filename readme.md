@@ -2,18 +2,12 @@
 
 A python library for automated Reddit subforum scraping and uploading to Instagram.
 
-## Installation
-
-Use the given Requirements to set up the enviroment.
-
-```bash
-pip install -r requirements.txt
-```
+Developed by FOGT Solutions (c) 2020
 
 ## Usage
 
 ```python
-import some python code
+import reddstagram
 ```
 
 ## Contributing
