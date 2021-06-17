@@ -18,10 +18,10 @@ pip install reddstagram
 import reddstagram
 
 #necessary arguments
-reddstagram.auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="")
+reddstagram.Auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="")
 
 #optional arguments
-reddstagram.auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="", LIMIT=0, DELAY=0, CAPTION="")
+reddstagram.Auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="", LIMIT=0, DELAY=0, CAPTION="")
 ```
 
 * USER - Your Instagram username.
