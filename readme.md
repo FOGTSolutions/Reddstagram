@@ -34,7 +34,7 @@ reddstagram.Auto(USER="", PASS="", SUBNAME="", ID="", SECRET="", AGENT="", LIMIT
 * DELAY - Delay between uploads.
 * CAPTION - Caption of the Instagram post.
 
-Example of running is every hour:
+Example of running it every hour:
 ```python
 import reddstagram
 import schedule
