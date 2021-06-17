@@ -1,0 +1,1 @@
+from reddstagram.auto import Auto
