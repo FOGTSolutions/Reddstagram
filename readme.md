@@ -54,6 +54,10 @@ while True:
 **Where can I get my own Reddit developer app credentials?**  
  
  *Create a script app here: https://www.reddit.com/prefs/apps*
+ 
+**Can I use any subreddit?**  
+ 
+ *No, you account needs to have access to it. Private subreddits wont work.*
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
