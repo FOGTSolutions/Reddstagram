@@ -57,7 +57,7 @@ while True:
  
 **Can I use any subreddit?**  
  
- *No, you account needs to have access to it. Private subreddits wont work.*
+ *No, your account needs to have access to it. Private subreddits wont work.*
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
