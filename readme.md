@@ -50,6 +50,10 @@ while True:
 
 ```
 
+## Frequently Asked Questions
+* **Where can I get my own Reddit developer app credentials?**  
+      Create a script app here: https://www.reddit.com/prefs/apps
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
